@@ -1,0 +1,5 @@
+function app	funcpch11252020
+function	HttpTrigger1
+
+
+https://funcpch11252020.azurewebsites.net/api/HttpTrigger1?code=/YIaqYRZ32dEFJO2ecI4XHWz4ktJwU/td0VKaqZABbgQ2v3yJ5W6lQ==
